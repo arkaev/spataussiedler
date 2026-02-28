@@ -12,6 +12,7 @@
 ## Структура базы знаний
 
 ### 1. Прибытие
+- [Что успеть перед отъездом](01-arrival/before-departure.md)
 - [Виза ПП в Москве](01-arrival/visa.md)
 - [Виза по приглашению для родственников](01-arrival/visa-relatives.md)
 - [Фридланд — первые шаги](01-arrival/friedland.md)
